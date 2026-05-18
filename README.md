@@ -8,9 +8,9 @@ Junior at Georgia Tech pursuing a **B.S. in Mathematics** with a concentration i
 
 **Languages:** Python, SQL, Java, Go, MATLAB
 
-**Data/Backend:** PostgreSQL, Redis, SQLite, MySQL, Snowflake, RESTful APIs, S3, GORM, dbt, Aurora, Lambda, CI/CD
+**Data/Backend:** PostgreSQL, SQLite, MySQL, Snowflake, RESTful APIs, dbt, CI/CD, AWS (S3, Aurora, Lambda, IAM)
 
-**Libraries:** Pandas, PySpark, DuckDB, Polars, NumPy, Matplotlib, Scikit-Learn, Biopython, Openpyxl
+**Libraries:** Pandas, PySpark, DuckDB, Polars, NumPy, Matplotlib, Scikit-Learn, Openpyxl
 
 **Tools:** Jupyter, Tableau, Docker, Git, Excel, VS Code, Typst
 
