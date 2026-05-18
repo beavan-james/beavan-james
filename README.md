@@ -16,4 +16,4 @@ Junior at Georgia Tech pursuing a **B.S. in Mathematics** with a concentration i
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beavan-james&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](./profile/top-langs.svg)
