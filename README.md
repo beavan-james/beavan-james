@@ -1,18 +1,18 @@
 # Hey, I’m James 👋
 
-Junior at Georgia Tech pursuing a **B.S. in Mathematics** with a concentration in **Data Science**. I have 1.5+ years of internship experience in data engineering, REST API development, and analytics. Currently building a data scraper for Greenhouse job boards.
+Junior at Georgia Tech pursuing a **B.S. in Mathematics** with a concentration in **Data Science**. I have 1.5+ years of internship experience in data engineering, REST API development, and analytics. Currently building a stock confidence rating pipeline.
 
 ---
 
 ### Technical Skills
 
-**Languages:** Python, SQL, Java, Go, MATLAB
+**Languages:** Python, SQL, Java, Go
 
-**Data/Backend:** PostgreSQL, SQLite, MySQL, Snowflake, RESTful APIs, dbt, CI/CD, AWS (S3, Aurora, Lambda, IAM)
+**Data/Backend:** PostgreSQL, Databricks, AWS (S3, Aurora, Lambda), SQLite, T-SQL, MySQL, RESTful APIs
 
-**Libraries:** Pandas, PySpark, DuckDB, Polars, NumPy, Matplotlib, Scikit-Learn, Openpyxl
+**Libraries:** Pandas, DuckDB, Dash, Reflex
 
-**Tools:** Jupyter, Tableau, Docker, Git, Excel, VS Code, Typst
+**Tools:** Dagster, Jupyter, Tableau, Docker, Render, Git, Excel, Linux/Bash
 
 ---
 
