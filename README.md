@@ -8,11 +8,9 @@ Junior at Georgia Tech pursuing a **B.S. in Mathematics** with a concentration i
 
 **Languages:** Python, SQL, Java, Go
 
-**Data/Backend:** PostgreSQL, Databricks, AWS (S3, Aurora, Lambda), SQLite, T-SQL, MySQL, RESTful APIs
+**Data Engineering & ML:** Dagster, DuckDB, PostgreSQL, Databricks, XGBoost, Pandas, Tableau
 
-**Libraries:** Pandas, DuckDB, Dash, Reflex
-
-**Tools:** Dagster, Jupyter, Tableau, Docker, Render, Git, Excel, Linux/Bash
+**Cloud, Infra & APIs:** AWS (EC2, S3, Route 53), Oracle Cloud (OCI), Terraform, RESTful APIs, Git, Docker
 
 ---
 
