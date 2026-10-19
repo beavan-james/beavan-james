@@ -58,7 +58,3 @@ A stock-ranking platform that ingests prices, fundamentals, and news sentiment i
 ![FastAPI](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<img src="./profile/top-langs.svg" alt="Top languages" />
